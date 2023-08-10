@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Binarization.cpp
+  BinarizationDlg.cpp
+  CMyDIB.cpp
+c:\users\user\documents\visual studio 2017\project\binarization for vc2010\binarization\cmydib.cpp(195): warning C4101: 'e': 未參考的區域變數
+  正在產生程式碼
+  158 of 161 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    30 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Binarization.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Project\Binarization for VC2010\Release\Binarization.exe
